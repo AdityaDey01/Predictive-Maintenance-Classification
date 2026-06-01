@@ -1,0 +1,9 @@
+ibm-watsonx-ai
+autoai-libs
+lale
+scikit-learn
+xgboost
+lightgbm
+snapml
+pandas
+numpy
