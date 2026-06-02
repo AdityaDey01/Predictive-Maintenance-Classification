@@ -227,6 +227,15 @@ Predictive-Maintenance-Classification/
 
 <img width="1887" height="639" alt="Screenshot 2026-06-01 145158" src="https://github.com/user-attachments/assets/1872c8f3-c18c-47de-87fc-36ca51bd02ce" />
 
+### Model deployed online
+
+<img width="1894" height="811" alt="Screenshot 2026-06-02 081208" src="https://github.com/user-attachments/assets/5861631c-efe0-4cc5-8f84-34eabb0d59c9" />
+
+### API endpoint generated
+
+<img width="1763" height="754" alt="Screenshot 2026-06-02 081722" src="https://github.com/user-attachments/assets/7606aaf2-dcd5-47c1-aefb-b0716d00aed4" />
+
+
 
 ---
 
