@@ -193,28 +193,6 @@ Recommended Action:
 Replace cutting tool and inspect spindle alignment.
 ```
 
----
-
-## 📂 Repository Structure
-
-```text
-Predictive-Maintenance-Classification/
-│
-├── Predictive Maintenance Model.ipynb
-│
-├── screenshots/
-│   ├── leaderboard.png
-│   ├── model_pipeline.png
-│   └── results.png
-│
-├── requirements.txt
-│
-├── LICENSE
-│
-└── README.md
-```
-
----
 
 ## 📸 Project Screenshots
 
